@@ -973,6 +973,7 @@ section.home.light .social-icons li a:hover {
 .portfolio-item {
   position: relative;
   overflow: hidden;
+  margin-right: 30px !important;
 }
 .portfolio-item .thumb {
   overflow: hidden;
